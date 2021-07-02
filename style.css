@@ -1,4 +1,30 @@
-title{
+.heading{
     text-align: center;
-    font-size: larger;
+    margin: 2rem;
+    
+}
+textarea{
+    width:80%;
+    height: 20vh;
+    display: inline-block;
+    margin: 2rem 7rem 3rem 7rem;
+    text-align: center;
+    border-radius: 5px;
+    
+
+}
+
+#btn-translate{
+    display: inline-block;
+    text-align: center;
+    width: 20%;
+    height: 7vh;
+    text-align: center;
+    font-weight: bold;
+    border: solid 1px black;
+    border-radius: 10px;
+    margin-left: 32rem;
+    padding: 0.5rem;
+    
+    
 }
