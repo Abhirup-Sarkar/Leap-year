@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
-:root{
+:root {
     --primary-color: #C4F3FD;
     --secondary-color: #725AC1;
 }
 
-body{
+body {
     font-family: 'Roboto', sans-serif;
     background-color: var(--primary-color);
 }
@@ -15,23 +15,25 @@ body{
     margin: 2rem 0rem 2rem 1rem;
     color: var(--secondary-color);
     font-size: 40px;
-    
+
 
 }
-hr{
-    
+
+hr {
+
     background-color: var(--secondary-color);
     margin-bottom: 2rem;
-    height:1px;
-    
+    height: 1px;
+
 }
 
-.hero-img{
+.hero-img {
     max-width: 400px;
     display: block;
     margin: auto;
 }
-.instruction{
+
+.instruction {
     text-align: center;
     color: var(--secondary-color);
     font-weight: bold;
@@ -62,13 +64,13 @@ textarea {
     text-align: center;
     width: 20%;
     height: 7vh;
-    
+
     font-weight: bold;
     border: solid 2px var(--secondary-color);
     border-radius: 10px;
     margin: auto;
     color: var(--secondary-color);
-    
+
 
 
 }
@@ -83,14 +85,15 @@ textarea {
     text-align: center;
     background-color: white;
     color: var(--secondary-color);
-    
+
     font-size: large;
 
 
 }
-.ending{
+
+.ending {
     margin: 0rem 5rem 2rem 7rem;
-    color:var(--secondary-color);
+    color: var(--secondary-color);
     font-weight: bold;
     font-size: large;
 
